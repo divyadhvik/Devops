@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "This is FIleA version4" 
+=======
+"This is FIleA version3 - new branch" 
+>>>>>>> 674813bbcdc94579ca23af141f8c0e925ccc3aac
